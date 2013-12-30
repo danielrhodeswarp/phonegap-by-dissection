@@ -1,0 +1,83 @@
+header {
+	width:100%;		display:block;
+	background-image:url(../img/tokyo_by_morio_800_top.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:cover;
+	/*background-color:black;*/
+}
+
+footer {
+	width:100%;		display:block;
+	background-image:url(../img/tokyo_by_morio_800_bottom.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:cover;
+	/*background-color:black;*/
+}
+
+ol.roman {
+	list-style-type:lower-roman;
+}
+
+.alert {
+	background-color:#f66262;
+	border:1px solid red;
+}
+
+code.multiline {
+    display: block;
+    width: 95%;
+    overflow: auto;
+    white-space: pre;
+    /*background-color: #ffa;*/
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+    padding: 0.5em 1em 0.5em 1em;
+}
+
+code.terminal {
+	display: block;
+    width: 95%;
+    overflow: auto;
+    white-space: pre;
+    background-color: black;
+    border: 1px solid lightgray;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #eee;
+}
+
+code.terminal > span {
+	color: #729fcf;
+}	
+
+div.figure {
+    text-align:center;
+    
+}
+
+div.figure > img {
+    border: 1px solid lightgray;
+}
+
+div.figure > p {
+    margin-top: 0;
+    font-style: italic;
+}
+
+ol > li > ol {
+    list-style-type: lower-roman;
+    
+}
+
+div.sidenote {
+	background-color:lightgrey;
+	border:1px solid black;
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+div.notice {
+}
+
+div.honesty {
+}

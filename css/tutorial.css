@@ -1,3 +1,8 @@
+.new_3_3_0 {
+	color:darkgreen;
+	background-color:lightgreen;
+}
+
 header {
 	width:100%;		display:block;
 	background-image:url(../img/tokyo_by_morio_800_top.jpg);
@@ -23,6 +28,10 @@ ol.roman {
 .alert {
 	background-color:#f66262;
 	border:1px solid red;
+}
+
+code.file {
+	font-style:italic;
 }
 
 code.multiline {

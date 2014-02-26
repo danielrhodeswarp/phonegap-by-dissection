@@ -8,7 +8,10 @@ build a complete app from scratch. You should know a little bit about JavaScript
 The tutorial assumes *nothing* and is very hand-holdy. It includes a lot of
 screenshots. Try it!
 
+NEW
+
+Updated to cover PhoneGap 3.3
+
 TODO
 - some bits missing
 - some bits unclear
-- this version of tut used PhoneGap 3.1 - current PhoneGap is 3.3 :-(

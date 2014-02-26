@@ -15,3 +15,4 @@ Updated to cover PhoneGap 3.3
 TODO
 - some bits missing
 - some bits unclear
+- need to properly mention screen DPI and font size etc
